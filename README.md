@@ -1,3 +1,3 @@
 # EasyPath
 
-EasyPath package is includes sample scenes,script.If you want to contribute this project, i can accept.
+EasyPath package allows you can create your way for movement.This package only use gizmos and loops.You can write extra codes for this package.
